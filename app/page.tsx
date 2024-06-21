@@ -36,7 +36,7 @@ export default function Home() {
             <section className="flex items-center justify-center">
                 <article className="max-w-5xl w-full py-10 md:py-16 px-6 space-y-4">
                     <h1 className="text-xl md:text-2xl font-semibold select-none" >Intoduction</h1>
-                    <p className="text-zinc-300 text-base text-justify select-none">I'm a full stack developer with experience in creating robust and scalable software. I am comfortable with highly demanded skills such as Next.js, React.js, and Express.js. Additionally, I have a very good knowledge of the Python programming language. I am seeking opportunities to create projects and deliver them faster than expected. I am comfortable with both web and API development. Let's build something cool!</p>
+                    <p className="text-zinc-300 text-base text-justify select-none">I&apos;m a full stack developer with experience in creating robust and scalable software. I am comfortable with highly demanded skills such as Next.js, React.js, and Express.js. Additionally, I have a very good knowledge of the Python programming language. I am seeking opportunities to create projects and deliver them faster than expected. I am comfortable with both web and API development. Let&apos;s build something cool!</p>
                 </article>
             </section>
             <section className="flex items-center justify-center">
