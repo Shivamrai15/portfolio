@@ -10,6 +10,8 @@ import { FrontEndCard } from "@/components/cards/frontend-card";
 import { MoreProjectCards } from "@/components/cards/more-projects-card";
 import { ProjectCard } from "@/components/cards/project-card";
 
+export const runtime = "edge";
+
 export default function Home() {
     return (
         <main className="h-full overflow-y-auto w-full bg-neutral-900">
