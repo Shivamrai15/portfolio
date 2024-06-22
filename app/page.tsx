@@ -47,7 +47,7 @@ export default function Home() {
                             src="https://res.cloudinary.com/dzmnw2hcz/image/upload/v1718988218/music-streaming_orx0uv.avif"
                             label="Music Streaming"
                             tech="ReactJs, Nextjs, TailwindCSS, TypeScript Prisma, MongoDB ,Zustand, React Query, SWR, Stripe, Cloudinary, NextAuth"
-                            href="/projects/safari"
+                            href="/projects/music-streaming"
                         />
                         <ProjectCard
                             src="https://res.cloudinary.com/dzmnw2hcz/image/upload/v1718988218/ecommerce_a7xpji.avif"
