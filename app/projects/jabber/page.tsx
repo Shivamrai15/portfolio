@@ -22,7 +22,7 @@ const ChatApplicationPage = () => {
                 </article>
             </section>
             <section className="grid sm:grid-cols-4 w-full px-6 gap-6">
-                <LinkCard live="https://rouge-shopping.vercel.app/" github="https://github.com/Shivamrai15/Rouge" />
+                <LinkCard live="https://chatwithjabber.vercel.app/" github="https://github.com/Shivamrai15/Jabber" />
                 <div className="w-full sm:col-span-3 py-6 px-4 md:px-6 bg-neutral-800 rounded-sm space-y-6">
                     <h3 className="text-lg text-zinc-400 font-semibold select-none" >Tech Stack</h3>
                     <div className="flex items-center gap-4 flex-wrap">
@@ -31,7 +31,7 @@ const ChatApplicationPage = () => {
                         <Tech label="TailwindCSS"/>
                         <Tech label="JavaScript"/>
                         <Tech label="Redis" color="#6e2623" />
-                        <Tech label="Pusher" color="" />
+                        <Tech label="Pusher"/>
                         <Tech label="NextAuth"/>
                         <Tech label="Zustand"/>
                     </div>
