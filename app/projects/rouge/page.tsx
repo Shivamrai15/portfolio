@@ -43,41 +43,41 @@ const RougePage = () => {
                 <h1 className="text-xl md:text-2xl font-semibold select-none" >Features</h1>
                 <ul className="pl-4 space-y-4">
                     <li className="gap-2 list-disc">
-                        <p className="text-zinc-300"> <span className="font-medium text-white">Account Creation :</span> Users can create an account using their email ID or through Google.</p>
+                        <p className="text-zinc-300 select-none"> <span className="font-medium text-white">Account Creation :</span> Users can create an account using their email ID or through Google.</p>
                     </li>
                     <li className="gap-2 list-disc">
-                        <p className="text-zinc-300"> <span className="font-medium text-white">Filters :</span> Users can apply filters to find products based on price range, color, and size.</p>
+                        <p className="text-zinc-300 select-none"> <span className="font-medium text-white">Filters :</span> Users can apply filters to find products based on price range, color, and size.</p>
                     </li>
                     <li className="gap-2 list-disc space-y-1">
-                        <span className="font-medium text-white">Wishlist Management :</span>
+                        <span className="font-medium text-white select-none">Wishlist Management :</span>
                         <ul className="text-zinc-300 text-[15px] pl-4">
-                            <li className="list-disc">Users can add multiple products to their wishlist.</li>
-                            <li className="list-disc">Users can move wishlisted items to their cart.</li>
-                            <li className="list-disc">Users can remove items from their wishlist.</li>
+                            <li className="list-disc select-none">Users can add multiple products to their wishlist.</li>
+                            <li className="list-disc select-none">Users can move wishlisted items to their cart.</li>
+                            <li className="list-disc select-none">Users can remove items from their wishlist.</li>
                         </ul>
                     </li>
                     <li className="gap-2 list-disc space-y-1">
-                        <span className="font-medium text-white">Address Management :</span>
+                        <span className="font-medium text-white select-none">Address Management :</span>
                         <ul className="text-zinc-300 text-[15px] pl-4">
-                            <li className="list-disc">Users can add multiple addresses to their profile.</li>
-                            <li className="list-disc">Users can switch the default address at any time.</li>
-                            <li className="list-disc">Users can delete addresses as needed.</li>
+                            <li className="list-disc select-none">Users can add multiple addresses to their profile.</li>
+                            <li className="list-disc select-none">Users can switch the default address at any time.</li>
+                            <li className="list-disc select-none">Users can delete addresses as needed.</li>
                         </ul>
                     </li>
                     <li className="gap-2 list-disc space-y-1">
-                        <span className="font-medium text-white">Cart Management and Purchasing Process :</span>
+                        <span className="font-medium text-white select-none">Cart Management and Purchasing Process :</span>
                         <ul className="text-zinc-300 text-[15px] pl-4">
-                            <li className="list-disc">Users can increase the quantity of a product, with changes reflected in the total price.</li>
-                            <li className="list-disc">Users can select specific items they wish to purchase.</li>
-                            <li className="list-disc">Upon clicking <span className="font-semibold text-white" >Continue</span>, users are directed to the address page where they can add a new address or select a previously added one.</li>
-                            <li className="list-disc">After selecting an address, users proceed to the payment gateway to enter additional details and complete their purchase.</li>
+                            <li className="list-disc select-none">Users can increase the quantity of a product, with changes reflected in the total price.</li>
+                            <li className="list-disc select-none">Users can select specific items they wish to purchase.</li>
+                            <li className="list-disc select-none">Upon clicking <span className="font-semibold text-white" >Continue</span>, users are directed to the address page where they can add a new address or select a previously added one.</li>
+                            <li className="list-disc select-none">After selecting an address, users proceed to the payment gateway to enter additional details and complete their purchase.</li>
                         </ul>
                     </li>
                     <li className="gap-2 list-disc space-y-1">
-                        <span className="font-medium text-white">Reviews :</span>
+                        <span className="font-medium text-white select-none">Reviews :</span>
                         <ul className="text-zinc-300 text-[15px] pl-4">
-                            <li className="list-disc">Users can add, update, or delete reviews for purchased items.</li>
-                            <li className="list-disc">Users can rate items on a scale of 1 to 5.</li>
+                            <li className="list-disc select-none">Users can add, update, or delete reviews for purchased items.</li>
+                            <li className="list-disc select-none">Users can rate items on a scale of 1 to 5.</li>
                         </ul>
                     </li>
                 </ul>

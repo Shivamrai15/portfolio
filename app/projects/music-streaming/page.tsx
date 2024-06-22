@@ -46,44 +46,44 @@ const MusicStreamingPage = () => {
                 <h1 className="text-xl md:text-2xl font-semibold select-none" >Features</h1>
                 <ul className="pl-4 space-y-4">
                     <li className="gap-2 list-disc">
-                        <p className="text-zinc-300"> <span className="font-medium text-white">Account Creation :</span> Users can create an account using their email ID or through Google or GitHub.</p>
+                        <p className="text-zinc-300 select-none"> <span className="font-medium text-white">Account Creation :</span> Users can create an account using their email ID or through Google or GitHub.</p>
                     </li>
                     <li className="gap-2 list-disc space-y-1">
-                        <span className="font-medium text-white">Ad-Free Listening :</span>
+                        <span className="font-medium text-white select-none">Ad-Free Listening :</span>
                         <ul className="text-zinc-300 text-[15px] pl-4">
-                            <li className="list-disc">Subscribed users can play songs without ads.</li>
-                            <li className="list-disc">Unsubscribed users can play songs without ads for 30 minutes.</li>
+                            <li className="list-disc select-none">Subscribed users can play songs without ads.</li>
+                            <li className="list-disc select-none">Unsubscribed users can play songs without ads for 30 minutes.</li>
                         </ul>
                     </li>
                     <li className="gap-2 list-disc space-y-1">
-                        <span className="font-medium text-white">Playlists :</span>
+                        <span className="font-medium text-white select-none">Playlists :</span>
                         <ul className="text-zinc-300 text-[15px] pl-4">
-                            <li className="list-disc">Subscribed users can create unlimited playlists.</li>
-                            <li className="list-disc">Unsubscribed users can create up to 5 playlists.</li>
-                            <li className="list-disc">Users can create public or private playlists based on their preference.</li>
+                            <li className="list-disc select-none">Subscribed users can create unlimited playlists.</li>
+                            <li className="list-disc select-none">Unsubscribed users can create up to 5 playlists.</li>
+                            <li className="list-disc select-none">Users can create public or private playlists based on their preference.</li>
                         </ul>
                     </li>
                     <li className="gap-2 list-disc">
-                        <p className="text-zinc-300"> <span className="font-medium text-white">Artist Following :</span> Users can follow their favorite artists.</p>
+                        <p className="text-zinc-300 select-none"> <span className="font-medium text-white">Artist Following :</span> Users can follow their favorite artists.</p>
                     </li>
                     <li className="gap-2 list-disc">
-                        <p className="text-zinc-300"> <span className="font-medium text-white">Song Liking :</span> Users can like songs to save them.</p>
+                        <p className="text-zinc-300 select-none"> <span className="font-medium text-white">Song Liking :</span> Users can like songs to save them.</p>
                     </li>
                     <li className="gap-2 list-disc space-y-1">
-                        <span className="font-medium text-white">Playback Restrictions for Unsubscribed Users :</span>
+                        <span className="font-medium text-white select-none">Playback Restrictions for Unsubscribed Users :</span>
                         <ul className="text-zinc-300 text-[15px] pl-4">
-                            <li className="list-disc">Cannot seek songs.</li>
-                            <li className="list-disc">Cannot play previously played songs.</li>
+                            <li className="list-disc select-none">Cannot seek songs.</li>
+                            <li className="list-disc select-none">Cannot play previously played songs.</li>
                         </ul>
                     </li>
                     <li className="gap-2 list-disc">
-                        <p className="text-zinc-300"> <span className="font-medium text-white">Synced Lyrics :</span> Subscribed users can view synced lyrics while listening.</p>
+                        <p className="text-zinc-300 select-none"> <span className="font-medium text-white">Synced Lyrics :</span> Subscribed users can view synced lyrics while listening.</p>
                     </li>
                     <li className="gap-2 list-disc">
-                        <p className="text-zinc-300"> <span className="font-medium text-white">Queue Management :</span> Subscribed users can manage and organize their playback queue.</p>
+                        <p className="text-zinc-300 select-none"> <span className="font-medium text-white">Queue Management :</span> Subscribed users can manage and organize their playback queue.</p>
                     </li>
                     <li className="gap-2 list-disc">
-                        <p className="text-zinc-300"> <span className="font-medium text-white">History Management :</span> User can manage their listening history.</p>
+                        <p className="text-zinc-300 select-none"> <span className="font-medium text-white">History Management :</span> User can manage their listening history.</p>
                     </li>
                 </ul>
             </section>
